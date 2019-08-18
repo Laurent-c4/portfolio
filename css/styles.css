@@ -12,3 +12,21 @@
     height: auto;
     border: 5px solid black;
 }
+.details {
+  float: left;
+  width: 40%;
+  border: 5px solid black;
+  padding: 6px;
+  margin: 10px;
+}
+h1 {
+  text-align: center;
+}
+.background {
+  float: left;
+  width: 40%;
+  border: 5px solid black;
+  padding: 6px;
+  margin: 10px;
+
+}
