@@ -30,3 +30,11 @@ h1 {
   margin: 10px;
 
 }
+.skills {
+  float: right;
+  width: 40%;
+  border: 5px solid black;
+  padding: 6px;
+  margin: 10px;
+
+}
