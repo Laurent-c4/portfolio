@@ -18,6 +18,8 @@
   border: 5px solid black;
   padding: 6px;
   margin: 10px;
+  background-color: #052B78;
+  color: grey;
 }
 .projects {
   float: right;
@@ -25,9 +27,16 @@
   border: 5px solid black;
   padding: 6px;
   margin: 10px;
+  background-color: #052B78;
+  color: grey;
+  font-family: sans-serif;
 }
 h1 {
   text-align: center;
+}
+h2 {
+  font-style: italic;
+  font-weight: bold;
 }
 .background {
   float: left;
@@ -35,6 +44,7 @@ h1 {
   border: 5px solid black;
   padding: 4px;
   margin: 5px;
+  font-family: sans-serif;
 
 }
 .skills {
@@ -44,4 +54,12 @@ h1 {
   padding: 4px;
   margin: 5px;
 
+}
+body {
+  background-color: grey;
+}
+a {
+  color: grey;
+  font-style: italic;
+  font-weight: bold;
 }
