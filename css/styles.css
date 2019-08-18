@@ -1,0 +1,14 @@
+.profile {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin: auto
+
+}
+
+/* resize images */
+.profile img {
+    width: 100%;
+    height: auto;
+    border: 5px solid black;
+}
