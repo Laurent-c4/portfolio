@@ -3,6 +3,8 @@
 #### By **Laurent Juma**
 ## Description
 This is my programming portfolio. It contains brief details about me and the projects I have worked on.
+##Link to live site on GitHub Pages
+https://laurent-c4.github.io/portfolio/
 ## Setup/Installation Requirements
 * Install a powerful browser
 ## Support and contact details
