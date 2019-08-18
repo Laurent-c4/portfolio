@@ -19,6 +19,13 @@
   padding: 6px;
   margin: 10px;
 }
+.projects {
+  float: right;
+  width: 40%;
+  border: 5px solid black;
+  padding: 6px;
+  margin: 10px;
+}
 h1 {
   text-align: center;
 }
@@ -26,15 +33,15 @@ h1 {
   float: left;
   width: 40%;
   border: 5px solid black;
-  padding: 6px;
-  margin: 10px;
+  padding: 4px;
+  margin: 5px;
 
 }
 .skills {
   float: right;
   width: 40%;
   border: 5px solid black;
-  padding: 6px;
-  margin: 10px;
+  padding: 4px;
+  margin: 5px;
 
 }
